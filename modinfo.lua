@@ -1,10 +1,13 @@
-name = "Unbreakable and Toggleable Magiluminescence"
+name = "Unbreakable+ Magiluminescence"
 description = "Magiluminescence does not disappear at 0%, and can be turned on/off while equipped (like the Magician's Top Hat)."
 author = "isaac"
-version = "1.2.0"
+version = "1.2.1.4"
 forumthread = ""
 
 api_version = 10
+
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
 
 dst_compatible = true
 dont_starve_compatible = false
