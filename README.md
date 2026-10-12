@@ -1,4 +1,4 @@
-# Unbreakable and Toggleable Magiluminescence
+# Unbreakable+ Magiluminescence
 
 Don't Starve Together mod for Magiluminescence (`yellowamulet`).
 
