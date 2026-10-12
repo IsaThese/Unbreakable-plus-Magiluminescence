@@ -2,7 +2,10 @@
   "appid": 322330,
   "visibility": 0,
   "tags": [
-    "all_clients_require_mod"
+    "all_clients_require_mod",
+    "QOL",
+    "tweaks",
+    "vanilla"
   ],
   "ignore": [
     "modicon.png",
